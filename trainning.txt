@@ -1,0 +1,13 @@
+git init: creates a new git repository (tao 1 luu tru git moi)
+git status: kiem tra muc luc cua cay thu muc lam viec va staging area.
+git add: add files from the working directory to the staging area (them file tu working directory toi staging area)
+git diff: shows the difference between the working directory and the staging area
+ --- chi ra su khac nhau giua working directory va staging area
+ git commit: permanently stores file changes from the staging area in the repository
+ ---- luu tru vinh vien cac thay doi tu staging area vao repository
+ git log: shows a list of all previous commits
+ 
+ git checkout filename: to switch branch
+
+remote repository: chia se cho nhieu nguoi, duoc dat tren server
+local repository: tren may local
